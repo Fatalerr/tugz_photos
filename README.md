@@ -1,2 +1,3 @@
-# tugz_photos
+# TUGZ Photos Repository
+
 repos for TUGZ photos contest
